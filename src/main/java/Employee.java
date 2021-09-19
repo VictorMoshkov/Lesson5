@@ -15,9 +15,7 @@ public class Employee {
 
     }
 
-    //public Employee(String name, String post, String email, String telephone, String salary, String age) {
 
-    //}
     public void showInf(){
         System.out.println(name + " " + post + " " + email + " " + telephone + " " + salary + " " + age);
     }
