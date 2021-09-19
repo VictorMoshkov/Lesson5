@@ -14,7 +14,7 @@ public class Employee {
         this.salary = salary;
 
     }
-
+//
 
     public void showInf(){
         System.out.println(name + " " + post + " " + email + " " + telephone + " " + salary + " " + age);
