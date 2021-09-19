@@ -10,7 +10,7 @@ public class Main {
         person[3] = new Employee("Костин Константин Константинович","Дизайнер", "kost@mail.ru", "89875555", 40000, 21);
         person[4] = new Employee("Алексеев Алексей Алексеевич","Бухгалтер", "aleks@mail.ru", "898766666", 50000, 43);
 
-
+//
         for (int i = 0; i < person.length; i++ ){
             if ((person[i].getAge() > 40)){
                 person[i].showInf();
